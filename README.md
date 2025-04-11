@@ -29,3 +29,4 @@ def track_trucks(trucks):
 if __name__ == "__main__":
     trucks = [Truck(truck_id=i) for i in range(1, 6)]  # Tracking 5 trucks
     track_trucks(trucks)
+впекпекркере
